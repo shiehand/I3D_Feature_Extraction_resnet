@@ -1,3 +1,5 @@
 pretrained/
 output/
 __pycache__/
+samplevideos/
+donevideos/
